@@ -1,2 +1,2 @@
-# class26
-This is my class 26 project in Git and Github
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
